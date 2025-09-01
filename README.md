@@ -1,3 +1,11 @@
 # Tesr
-my first github project
-i'll try to get used to this
+ <html>
+  <head>
+     <title> ARIBA </title>
+  </head>
+  <body>
+    <h1>
+      TRYNA LEARN
+    </h1>
+  </body>
+ </html>
